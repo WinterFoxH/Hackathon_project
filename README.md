@@ -8,7 +8,6 @@
 2. **Ransomware Simulation & Defense Tool**  
    - Sandbox environment to simulate attacks and test mitigations.  
    - *Tech Stack*: Docker, Python, YARA rules.  
-```
 3. **Decentralized VPN with Blockchain**  
    - P2P VPN service for enhanced privacy.  
    - *Tech Stack*: Libp2p, Ethereum/Solidity, Node.js.  
