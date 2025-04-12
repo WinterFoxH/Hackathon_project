@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e63d780-1c29-496c-860f-6d7e2aafe95d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/yolov5/data/data.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yolov5/data/images/bus.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/yolov5/data/images/zidane.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov5/data/scripts/download_weights.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov5/data/scripts/get_coco.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov5/data/scripts/get_coco128.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov5/data/scripts/get_imagenet.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov5/data/scripts/get_imagenet10.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov5/data/scripts/get_imagenet100.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov5/data/scripts/get_imagenet1000.sh" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +47,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Hackcarpathia2025\Hackathon_project\AI\yolov5\data\labels" />
       <recent name="C:\Hackcarpathia2025\Hackathon_project\AI\yolov5\data" />
       <recent name="C:\Hackcarpathia2025\Hackathon_project\AI\yolov5\data\images" />
       <recent name="C:\Hackcarpathia2025\Hackathon_project\AI\yolov5\data\train" />
@@ -62,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744465888749</updated>
-      <workItem from="1744465889800" duration="5476000" />
+      <workItem from="1744465889800" duration="10449000" />
     </task>
     <servers />
   </component>
