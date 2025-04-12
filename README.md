@@ -40,6 +40,10 @@
    - Crowdsourced app mapping plastic waste hotspots.  
    - *Tech Stack*: React Native, Firebase, OpenStreetMap.  
 
+### **Usefull links**
+   - satelite data.
+   https://eos.com/landviewer/?id=S2A_tile_20250109_33UWA_0&b=Red,Green,Blue&anti=true&lat=51.57298&lng=27.30322&z=6&menuItem=search
+
 
 ## 📂 Project Structure  
 ```plaintext
