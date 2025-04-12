@@ -1,0 +1,410 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|c:\\users\\shuri\\documents\\github\\hackathon_project\\app\\shieldshed\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|solutionrelative:shieldshed\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|c:\\users\\shuri\\documents\\github\\hackathon_project\\app\\shieldshed\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|solutionrelative:shieldshed\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|c:\\users\\shuri\\documents\\github\\hackathon_project\\app\\shieldshed\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|solutionrelative:shieldshed\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|c:\\users\\shuri\\documents\\github\\hackathon_project\\app\\shieldshed\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|solutionrelative:shieldshed\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|c:\\users\\shuri\\documents\\github\\hackathon_project\\app\\shieldshed\\views\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|solutionrelative:shieldshed\\views\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|c:\\users\\shuri\\documents\\github\\hackathon_project\\app\\shieldshed\\views\\butlerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|solutionrelative:shieldshed\\views\\butlerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|c:\\users\\shuri\\documents\\github\\hackathon_project\\app\\shieldshed\\shieldshed.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|solutionrelative:shieldshed\\shieldshed.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|c:\\users\\shuri\\documents\\github\\hackathon_project\\app\\shieldshed\\views\\passwords.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|solutionrelative:shieldshed\\views\\passwords.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|c:\\users\\shuri\\documents\\github\\hackathon_project\\app\\shieldshed\\views\\butlerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|solutionrelative:shieldshed\\views\\butlerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|c:\\users\\shuri\\documents\\github\\hackathon_project\\app\\shieldshed\\views\\familyviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|solutionrelative:shieldshed\\views\\familyviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|c:\\users\\shuri\\documents\\github\\hackathon_project\\app\\shieldshed\\views\\familyviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|solutionrelative:shieldshed\\views\\familyviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|c:\\users\\shuri\\documents\\github\\hackathon_project\\app\\shieldshed\\interfaces\\ipasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|solutionrelative:shieldshed\\interfaces\\ipasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|c:\\users\\shuri\\documents\\github\\hackathon_project\\app\\shieldshed\\viewmodels\\passwordspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|solutionrelative:shieldshed\\viewmodels\\passwordspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|c:\\users\\shuri\\documents\\github\\hackathon_project\\app\\shieldshed\\viewmodels\\familyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|solutionrelative:shieldshed\\viewmodels\\familyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|c:\\users\\shuri\\documents\\github\\hackathon_project\\app\\shieldshed\\viewmodels\\butlerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|solutionrelative:shieldshed\\viewmodels\\butlerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|c:\\users\\shuri\\documents\\github\\hackathon_project\\app\\shieldshed\\models\\passwordentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|solutionrelative:shieldshed\\models\\passwordentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|c:\\users\\shuri\\documents\\github\\hackathon_project\\app\\shieldshed\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|solutionrelative:shieldshed\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|c:\\users\\shuri\\documents\\github\\hackathon_project\\app\\shieldshed\\views\\passwords.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|solutionrelative:shieldshed\\views\\passwords.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|c:\\users\\shuri\\documents\\github\\hackathon_project\\app\\shieldshed\\views\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|solutionrelative:shieldshed\\views\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|c:\\users\\shuri\\documents\\github\\hackathon_project\\app\\shieldshed\\views\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|solutionrelative:shieldshed\\views\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|c:\\users\\shuri\\documents\\github\\hackathon_project\\app\\shieldshed\\views\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|solutionrelative:shieldshed\\views\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|c:\\users\\shuri\\documents\\github\\hackathon_project\\app\\shieldshed\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43E5B220-73AF-42A2-A795-3AECEDE321F3}|ShieldShed\\ShieldShed.csproj|solutionrelative:shieldshed\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\AllPasswords.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShieldShed\\Views\\AllPasswords.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\AllPasswords.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShieldShed\\Views\\AllPasswords.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ButlerPage.xaml",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\ButlerPage.xaml",
+              "RelativeDocumentMoniker": "ShieldShed\\Views\\ButlerPage.xaml",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\ButlerPage.xaml",
+              "RelativeToolTip": "ShieldShed\\Views\\ButlerPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T16:42:52.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ShieldShed\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\MainPage.xaml",
+              "RelativeToolTip": "ShieldShed\\Views\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T13:42:29.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShieldShed.csproj",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\ShieldShed.csproj",
+              "RelativeDocumentMoniker": "ShieldShed\\ShieldShed.csproj",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\ShieldShed.csproj*",
+              "RelativeToolTip": "ShieldShed\\ShieldShed.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-12T14:24:11.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "ShieldShed\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "ShieldShed\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:09:19.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ShieldShed\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\MauiProgram.cs",
+              "RelativeToolTip": "ShieldShed\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:12:05.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ButlerPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\ButlerPage.xaml.cs",
+              "RelativeDocumentMoniker": "ShieldShed\\Views\\ButlerPage.xaml.cs",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\ButlerPage.xaml.cs",
+              "RelativeToolTip": "ShieldShed\\Views\\ButlerPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:42:52.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\AppShell.xaml",
+              "RelativeDocumentMoniker": "ShieldShed\\Views\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\AppShell.xaml",
+              "RelativeToolTip": "ShieldShed\\Views\\AppShell.xaml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T13:42:21.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ShieldShed\\Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "ShieldShed\\Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:42:35.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Passwords.xaml",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\Passwords.xaml",
+              "RelativeDocumentMoniker": "ShieldShed\\Views\\Passwords.xaml",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\Passwords.xaml",
+              "RelativeToolTip": "ShieldShed\\Views\\Passwords.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T13:42:30.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FamilyViewPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\FamilyViewPage.xaml.cs",
+              "RelativeDocumentMoniker": "ShieldShed\\Views\\FamilyViewPage.xaml.cs",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\FamilyViewPage.xaml.cs",
+              "RelativeToolTip": "ShieldShed\\Views\\FamilyViewPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:42:48.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FamilyViewPage.xaml",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\FamilyViewPage.xaml",
+              "RelativeDocumentMoniker": "ShieldShed\\Views\\FamilyViewPage.xaml",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\FamilyViewPage.xaml",
+              "RelativeToolTip": "ShieldShed\\Views\\FamilyViewPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T16:42:42.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPasswordService.cs",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Interfaces\\IPasswordService.cs",
+              "RelativeDocumentMoniker": "ShieldShed\\Interfaces\\IPasswordService.cs",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Interfaces\\IPasswordService.cs",
+              "RelativeToolTip": "ShieldShed\\Interfaces\\IPasswordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:35:02.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PasswordsPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\ViewModels\\PasswordsPageViewModel.cs",
+              "RelativeDocumentMoniker": "ShieldShed\\ViewModels\\PasswordsPageViewModel.cs",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\ViewModels\\PasswordsPageViewModel.cs",
+              "RelativeToolTip": "ShieldShed\\ViewModels\\PasswordsPageViewModel.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:58:15.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FamilyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\ViewModels\\FamilyViewModel.cs",
+              "RelativeDocumentMoniker": "ShieldShed\\ViewModels\\FamilyViewModel.cs",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\ViewModels\\FamilyViewModel.cs",
+              "RelativeToolTip": "ShieldShed\\ViewModels\\FamilyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:16:04.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ButlerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\ViewModels\\ButlerViewModel.cs",
+              "RelativeDocumentMoniker": "ShieldShed\\ViewModels\\ButlerViewModel.cs",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\ViewModels\\ButlerViewModel.cs",
+              "RelativeToolTip": "ShieldShed\\ViewModels\\ButlerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:15:57.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "ShieldShed\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "ShieldShed\\Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-04-12T16:06:44.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Passwords.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\Passwords.xaml.cs",
+              "RelativeDocumentMoniker": "ShieldShed\\Views\\Passwords.xaml.cs",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\Passwords.xaml.cs",
+              "RelativeToolTip": "ShieldShed\\Views\\Passwords.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:57:54.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PasswordEntry.cs",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Models\\PasswordEntry.cs",
+              "RelativeDocumentMoniker": "ShieldShed\\Models\\PasswordEntry.cs",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Models\\PasswordEntry.cs",
+              "RelativeToolTip": "ShieldShed\\Models\\PasswordEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:57:49.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AllPasswords.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\AllPasswords.xaml.cs",
+              "RelativeDocumentMoniker": "ShieldShed\\Views\\AllPasswords.xaml.cs",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\AllPasswords.xaml.cs",
+              "RelativeToolTip": "ShieldShed\\Views\\AllPasswords.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:56:55.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AllPasswords.xaml",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\AllPasswords.xaml",
+              "RelativeDocumentMoniker": "ShieldShed\\Views\\AllPasswords.xaml",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\AllPasswords.xaml",
+              "RelativeToolTip": "ShieldShed\\Views\\AllPasswords.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T14:56:43.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "ShieldShed\\Views\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\AppShell.xaml.cs",
+              "RelativeToolTip": "ShieldShed\\Views\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:42:33.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ShieldShed\\Views\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\App.xaml.cs",
+              "RelativeToolTip": "ShieldShed\\Views\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:42:31.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\App.xaml",
+              "RelativeDocumentMoniker": "ShieldShed\\Views\\App.xaml",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Views\\App.xaml",
+              "RelativeToolTip": "ShieldShed\\Views\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T13:42:27.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "ShieldShed\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\shuri\\Documents\\GitHub\\Hackathon_project\\App\\ShieldShed\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "ShieldShed\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T14:20:24.152Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
