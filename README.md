@@ -4,7 +4,7 @@
 1. **AI-Powered Phishing Detector**  
    - Browser extension using ML to detect phishing emails/websites in real time.  
    - *Tech Stack*: Python, TensorFlow, Chrome Extensions API.  
-```
+```plaintext
 2. **Ransomware Simulation & Defense Tool**  
    - Sandbox environment to simulate attacks and test mitigations.  
    - *Tech Stack*: Docker, Python, YARA rules.  
@@ -12,7 +12,7 @@
 3. **Decentralized VPN with Blockchain**  
    - P2P VPN service for enhanced privacy.  
    - *Tech Stack*: Libp2p, Ethereum/Solidity, Node.js.  
-```
+```plaintext
 ### 🤖 **AI & Machine Learning Projects**  
 1. **Automated Penetration Testing with AI**  
    - Reinforcement learning tool to find security flaws.  
@@ -35,7 +35,7 @@
 1. **Forest Fire Prediction Model**  
    - Uses satellite data + ML to predict wildfire risks.  
    - *Tech Stack*: Python, NASA FIRMS API, Scikit-learn.  
-```
+```plaintext
 2. **Plastic Pollution Tracker**  
    - Crowdsourced app mapping plastic waste hotspots.  
    - *Tech Stack*: React Native, Firebase, OpenStreetMap.  
