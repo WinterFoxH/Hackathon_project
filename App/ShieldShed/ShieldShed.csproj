@@ -47,7 +47,7 @@
 
 		<!-- Splash Screen -->
 		<MauiSplashScreen Include="Resources\Splash\splash.svg" Color="#512BD4" BaseSize="128,128" />
-
+				
 		<!-- Images -->
 		<MauiImage Include="Resources\Images\*" />
 		<MauiImage Update="Resources\Images\dotnet_bot.png" Resize="True" BaseSize="300,185" />
@@ -62,15 +62,28 @@
 	<ItemGroup>
 		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="9.0.0" />
+		<PackageReference Include="Plugin.Fingerprint" Version="2.1.5" />
 	</ItemGroup>
 
 	<ItemGroup>
+	  <Compile Update="Views\ButlerPage.xaml.cs">
+	    <DependentUpon>ButlerPage.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Views\FamilyViewPage.xaml.cs">
+	    <DependentUpon>FamilyViewPage.xaml</DependentUpon>
+	  </Compile>
 	  <Compile Update="Views\Passwords.xaml.cs">
 	    <DependentUpon>Passwords.xaml</DependentUpon>
 	  </Compile>
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiXaml Update="Views\ButlerPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\FamilyViewPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Views\Passwords.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>

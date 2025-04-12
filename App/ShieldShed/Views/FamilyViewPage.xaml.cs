@@ -3,9 +3,9 @@ using Microsoft.Maui.Controls;
 
 namespace ShieldShed
 {
-    public partial class PasswordsPage : ContentPage
+    public partial class FamilyPage : ContentPage
     {
-        public PasswordsPage(PasswordsViewModel viewModel)
+        public FamilyPage(FamilyViewModel viewModel)
         {
             InitializeComponent();
             BindingContext = viewModel;

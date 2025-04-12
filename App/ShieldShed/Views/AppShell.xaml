@@ -7,12 +7,27 @@
     Shell.FlyoutBehavior="Flyout"
     Title="ShieldShed">
 
-    <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
-    <ShellContent
-        Title="Passwords"
-        ContentTemplate="{DataTemplate local:Passwords}"
-        Route="Passwords" />
+    <Shell.FlyoutHeader>
+        <Grid>
+            <Image Source="grandpa_logo.png"
+                   HeightRequest="100"
+                   Aspect="AspectFit"/>
+        </Grid>
+    </Shell.FlyoutHeader>
+
+    <ShellItem Title="Home">
+        <ShellContent ContentTemplate="{DataTemplate local:MainPage}" />
+    </ShellItem>
+
+    <ShellItem Title="Butler AI">
+        <ShellContent ContentTemplate="{DataTemplate local:ButlerPage}" />
+    </ShellItem>
+
+    <ShellItem Title="Password Vault">
+        <ShellContent ContentTemplate="{DataTemplate local:PasswordsPage}" />
+    </ShellItem>
+
+    <ShellItem Title="Family Sharing">
+        <ShellContent ContentTemplate="{DataTemplate local:FamilyPage}" />
+    </ShellItem>
 </Shell>
