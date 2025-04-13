@@ -1,0 +1,10 @@
+hsv_h: 0.015  # Hue rotation (+/- 1.5%)
+hsv_s: 0.7    # Saturation scaling (up to ±70%)
+hsv_v: 0.4    # Brightness scaling (up to ±40%)
+degrees: 0.0  # Image rotation (+/- 0 degrees)
+translate: 0.1  # Image translation (+/- 10%)
+scale: 0.5    # Image scaling (+/- 50%)
+shear: 0.0    # Image shear (+/- 0 degrees)
+flipud: 0.0   # Vertical flip (0% chance)
+fliplr: 0.5   # Horizontal flip (50% chance)
+mixup: 0.0    # Disabled by default

@@ -1,0 +1,28 @@
+<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:local="clr-namespace:MaulPasswordApp"
+       x:Class="MaulPasswordApp.AppShell"
+       FlyoutBehavior="Flyout">
+
+    <Shell.FlyoutHeader>
+        <Grid HeightRequest="100">
+            <Label Text="MAUL App" 
+                   FontSize="Large"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center"/>
+        </Grid>
+    </Shell.FlyoutHeader>
+
+    <ShellContent Title="Home"
+                  ContentTemplate="{DataTemplate local:MainPage}"
+                  Route="MainPage" />
+
+    <ShellContent Title="Passwords"
+                  ContentTemplate="{DataTemplate local:PasswordPage}"
+                  Route="PasswordPage" />
+
+    <ShellContent Title="Settings"
+                  ContentTemplate="{DataTemplate local:SettingsPage}"
+                  Route="SettingsPage" />
+
+</Shell>

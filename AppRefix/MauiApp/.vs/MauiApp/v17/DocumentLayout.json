@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Hackcarpathia2025\\Hackathon_project\\AppRefix\\MauiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FD374C-EC7C-4DB1-91D4-646572007E2F}|MauiApp\\MauiApp.csproj|c:\\hackcarpathia2025\\hackathon_project\\apprefix\\mauiapp\\mauiapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FD374C-EC7C-4DB1-91D4-646572007E2F}|MauiApp\\MauiApp.csproj|solutionrelative:mauiapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FD374C-EC7C-4DB1-91D4-646572007E2F}|MauiApp\\MauiApp.csproj|c:\\hackcarpathia2025\\hackathon_project\\apprefix\\mauiapp\\mauiapp\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FD374C-EC7C-4DB1-91D4-646572007E2F}|MauiApp\\MauiApp.csproj|solutionrelative:mauiapp\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FD374C-EC7C-4DB1-91D4-646572007E2F}|MauiApp\\MauiApp.csproj|c:\\hackcarpathia2025\\hackathon_project\\apprefix\\mauiapp\\mauiapp\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A5FD374C-EC7C-4DB1-91D4-646572007E2F}|MauiApp\\MauiApp.csproj|solutionrelative:mauiapp\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FD374C-EC7C-4DB1-91D4-646572007E2F}|MauiApp\\MauiApp.csproj|c:\\hackcarpathia2025\\hackathon_project\\apprefix\\mauiapp\\mauiapp\\passwordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FD374C-EC7C-4DB1-91D4-646572007E2F}|MauiApp\\MauiApp.csproj|solutionrelative:mauiapp\\passwordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FD374C-EC7C-4DB1-91D4-646572007E2F}|MauiApp\\MauiApp.csproj|c:\\hackcarpathia2025\\hackathon_project\\apprefix\\mauiapp\\mauiapp\\passwordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A5FD374C-EC7C-4DB1-91D4-646572007E2F}|MauiApp\\MauiApp.csproj|solutionrelative:mauiapp\\passwordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FD374C-EC7C-4DB1-91D4-646572007E2F}|MauiApp\\MauiApp.csproj|c:\\hackcarpathia2025\\hackathon_project\\apprefix\\mauiapp\\mauiapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FD374C-EC7C-4DB1-91D4-646572007E2F}|MauiApp\\MauiApp.csproj|solutionrelative:mauiapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FD374C-EC7C-4DB1-91D4-646572007E2F}|MauiApp\\MauiApp.csproj|c:\\hackcarpathia2025\\hackathon_project\\apprefix\\mauiapp\\mauiapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A5FD374C-EC7C-4DB1-91D4-646572007E2F}|MauiApp\\MauiApp.csproj|solutionrelative:mauiapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FD374C-EC7C-4DB1-91D4-646572007E2F}|MauiApp\\MauiApp.csproj|c:\\hackcarpathia2025\\hackathon_project\\apprefix\\mauiapp\\mauiapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A5FD374C-EC7C-4DB1-91D4-646572007E2F}|MauiApp\\MauiApp.csproj|solutionrelative:mauiapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Hackcarpathia2025\\Hackathon_project\\AppRefix\\MauiApp\\MauiApp\\SettingsPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp\\SettingsPage.xaml.cs",
+              "ToolTip": "C:\\Hackcarpathia2025\\Hackathon_project\\AppRefix\\MauiApp\\MauiApp\\SettingsPage.xaml.cs",
+              "RelativeToolTip": "MauiApp\\SettingsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:56:33.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Hackcarpathia2025\\Hackathon_project\\AppRefix\\MauiApp\\MauiApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Hackcarpathia2025\\Hackathon_project\\AppRefix\\MauiApp\\MauiApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "MauiApp\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:56:03.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingsPage.xaml",
+              "DocumentMoniker": "C:\\Hackcarpathia2025\\Hackathon_project\\AppRefix\\MauiApp\\MauiApp\\SettingsPage.xaml",
+              "RelativeDocumentMoniker": "MauiApp\\SettingsPage.xaml",
+              "ToolTip": "C:\\Hackcarpathia2025\\Hackathon_project\\AppRefix\\MauiApp\\MauiApp\\SettingsPage.xaml",
+              "RelativeToolTip": "MauiApp\\SettingsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T19:52:31.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PasswordPage.xaml.cs",
+              "DocumentMoniker": "C:\\Hackcarpathia2025\\Hackathon_project\\AppRefix\\MauiApp\\MauiApp\\PasswordPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp\\PasswordPage.xaml.cs",
+              "ToolTip": "C:\\Hackcarpathia2025\\Hackathon_project\\AppRefix\\MauiApp\\MauiApp\\PasswordPage.xaml.cs",
+              "RelativeToolTip": "MauiApp\\PasswordPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:52:19.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasswordPage.xaml",
+              "DocumentMoniker": "C:\\Hackcarpathia2025\\Hackathon_project\\AppRefix\\MauiApp\\MauiApp\\PasswordPage.xaml",
+              "RelativeDocumentMoniker": "MauiApp\\PasswordPage.xaml",
+              "ToolTip": "C:\\Hackcarpathia2025\\Hackathon_project\\AppRefix\\MauiApp\\MauiApp\\PasswordPage.xaml",
+              "RelativeToolTip": "MauiApp\\PasswordPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T19:51:39.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Hackcarpathia2025\\Hackathon_project\\AppRefix\\MauiApp\\MauiApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Hackcarpathia2025\\Hackathon_project\\AppRefix\\MauiApp\\MauiApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "MauiApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:50:38.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Hackcarpathia2025\\Hackathon_project\\AppRefix\\MauiApp\\MauiApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiApp\\MainPage.xaml",
+              "ToolTip": "C:\\Hackcarpathia2025\\Hackathon_project\\AppRefix\\MauiApp\\MauiApp\\MainPage.xaml",
+              "RelativeToolTip": "MauiApp\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T19:40:29.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Hackcarpathia2025\\Hackathon_project\\AppRefix\\MauiApp\\MauiApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MauiApp\\AppShell.xaml",
+              "ToolTip": "C:\\Hackcarpathia2025\\Hackathon_project\\AppRefix\\MauiApp\\MauiApp\\AppShell.xaml",
+              "RelativeToolTip": "MauiApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T19:37:01.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
